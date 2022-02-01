@@ -7,6 +7,6 @@
  */
 
 phpinfo(); //
-
+phpinfo();
 
 ?>
